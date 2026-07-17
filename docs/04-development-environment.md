@@ -46,3 +46,11 @@ Os atalhos locais estão armazenados em:
 - Redis executado por container.
 
 PostgreSQL e Redis não serão instalados como serviços locais do Windows. O ambiente de desenvolvimento utilizará containers para reduzir divergências entre máquinas.
+## Infraestrutura local validada
+
+- WSL: 2.7.10.0.
+- Docker Desktop: 4.82.0.
+- Docker Engine: 29.6.1.
+- Docker Compose: 5.3.0.
+- Backend de containers: Linux via WSL 2.
+- Teste oficial: container hello-world executado com sucesso.

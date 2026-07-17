@@ -15,3 +15,4 @@ Todas as alterações relevantes do projeto serão registradas neste arquivo.
 - Ambiente de desenvolvimento documentado.
 - .NET SDK 9.0.316 definido como versão-base.
 - Godot Engine .NET 4.7.1 validada.
+- WSL 2 e Docker Desktop validados para o ambiente local.
