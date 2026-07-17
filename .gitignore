@@ -1,0 +1,72 @@
+# Operating systems
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editors and IDEs
+.vs/
+.idea/
+.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# .NET
+bin/
+obj/
+artifacts/
+TestResults/
+coverage/
+*.nupkg
+*.snupkg
+
+# Godot
+.godot/
+.import/
+export_credentials.cfg
+
+# Environment and secrets
+.env
+.env.*
+!.env.example
+secrets.json
+appsettings.*.local.json
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+tmp/
+temp/
+.cache/
+
+# Build outputs
+build/
+dist/
+publish/
+
+# Local databases
+*.db
+*.db-shm
+*.db-wal
+*.sqlite
+*.sqlite3
+
+# Blender backups
+*.blend1
+*.blend2
+*.blend3
+
+# Krita backups
+*.kra~
+*.autosave.kra
+
+# Audio temporary files
+*.aup.bak
+
+# Archives generated locally
+*.zip
+*.7z
+*.rar
